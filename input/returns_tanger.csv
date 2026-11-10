@@ -1,0 +1,8 @@
+return_id,product_name,reason,city
+R201,Printer Ink,wrong_item,Tanger
+R202,HDMI Cable,defective,Tanger
+R203,Router,defective,Tanger
+R204,SD Card,changed_mind,Tanger
+R205,Flash Drive,wrong_item,Tanger
+R206,Speaker,defective,Tanger
+R207,Mouse Pad,changed_mind,Tanger

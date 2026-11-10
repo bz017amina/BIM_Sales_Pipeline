@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  processor:
+    build: .
+    container_name: returns_processor
+    volumes:
+      - .:/app
+
+  viewer:
+    image: nginx:alpine
+    container_name: returns_viewer
+    ports:
+      - "8080:80"
+    volumes:
+      - ./viewer:/usr/share/nginx/html
+      - ./output:/usr/share/nginx/html/output

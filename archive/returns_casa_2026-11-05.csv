@@ -1,0 +1,9 @@
+return_id,product_name,reason,city
+R001,Laptop Stand,defective,Casablanca
+R002,USB-C Cable,wrong_item,Casablanca
+R003,Wireless Mouse,changed_mind,Casablanca
+R004,Keyboard,defective,Casablanca
+R005,Monitor 24in,defective,Casablanca
+R006,Webcam,changed_mind,Casablanca
+R007,Headset,wrong_item,Casablanca
+R008,Desk Lamp,defective,Casablanca

@@ -1,0 +1,10 @@
+id,date,city,reason,count
+1,2026-11-06,Casa,defective,4
+2,2026-11-06,Casa,wrong_item,2
+3,2026-11-06,Casa,changed_mind,2
+4,2026-11-06,Tanger,defective,3
+5,2026-11-06,Tanger,wrong_item,2
+6,2026-11-06,Tanger,changed_mind,2
+7,2026-11-06,Agadir,defective,1
+8,2026-11-06,Agadir,wrong_item,2
+9,2026-11-06,Agadir,changed_mind,3
